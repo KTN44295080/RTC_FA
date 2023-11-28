@@ -1,0 +1,90 @@
+[
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\IMoveable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\IMoveable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FA.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FA.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FA.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FACharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FACharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FAGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\Source\\RTC_FA\\RTC_FAGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA\\RTC_FA.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

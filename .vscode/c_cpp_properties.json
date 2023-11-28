@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "RTC_FAEditor Editor Win64 Development (RTC_FA)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_RTC_FA.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\kouty\\Documents\\Unreal Projects\\RTC_FA\\.vscode\\compileCommands_Default.json",
+            "includePath": [
+                "${default}",
+                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes",
+                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Core/Public",
+                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public",
+                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Public"
+            ]
+        }
+    ],
+    "version": 4
+}
